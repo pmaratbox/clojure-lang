@@ -4,7 +4,17 @@ Incremental lessons learning Clojure.
 
 ## Prerequisites
 
-- Clojure CLI (`clojure --version`)
+- Clojure CLI
+- JDK 11+ (`brew install --cask temurin` on macOS, or `sudo apt install default-jdk` on Debian/Ubuntu)
+
+### Install Clojure CLI
+
+- macOS (Homebrew): `brew install clojure/tools/clojure`
+- Linux: follow the [official install script](https://clojure.org/guides/install_clojure)
+
+### Verify
+
+    clojure --version
 
 ## Lessons
 
