@@ -544,6 +544,9 @@ Incremental lessons learning Clojure.
 - [0503-method-routing](33-web-frameworks/0503-method-routing/) — same path, different methods
 - [0504-error-handler](33-web-frameworks/0504-error-handler/) — handle a thrown error with a 500
 
+### Immutable Collections
+- [0529-immutable-list](37-immutable-collections/0529-immutable-list/) — adding returns a new list; original unchanged
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
