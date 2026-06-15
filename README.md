@@ -530,6 +530,9 @@ Incremental lessons learning Clojure.
 - [0467-field-rename](29-serialization/0467-field-rename/) — map a code field name to a different JSON key
 - [0468-scalar-types](29-serialization/0468-scalar-types/) — serialize bool, int, and string fields
 
+### Web Frameworks
+- [0493-hello-route](33-web-frameworks/0493-hello-route/) — define a GET route returning text
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
